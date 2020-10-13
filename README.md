@@ -1,9 +1,3 @@
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 <img src="https://github-readme-stats.vercel.app/api?username=XyyF&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 # I'm XyyF
@@ -18,3 +12,6 @@ All these are friend link you can access for free
 - [通过单例模式设计vuex动态注册模块](https://juejin.im/post/6855129005851738120)
 
 <img src="https://github-profile-trophy.vercel.app/?username=XyyF&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
