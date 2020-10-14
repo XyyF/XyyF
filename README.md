@@ -21,6 +21,8 @@ All these are friend link you can access for free
 
 <img src="https://github-profile-trophy.vercel.app/?username=XyyF&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
+#### :bar_chart: Weekly development breakdown
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
