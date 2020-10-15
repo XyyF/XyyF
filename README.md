@@ -25,6 +25,8 @@ All these are friend link you can access for free
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   1 hr 33 mins    ████████████████████████▒   96.98 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 <!--END_SECTION:waka-->
