@@ -25,10 +25,10 @@ All these are friend link you can access for free
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 21 mins   ███████████████▒░░░░░░░░░   61.67 % 
-XML          1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Other        33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-HTML         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JavaScript   5 hrs 47 mins   ██████████████▒░░░░░░░░░░   57.13 % 
+XML          2 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 % 
+Other        33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+HTML         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+SQL          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 ```
 <!--END_SECTION:waka-->
