@@ -23,7 +23,12 @@ All these are friend link you can access for free
 
 #### :bar_chart: Weekly development breakdown	
 
-<!--START_SECTION:waka-->	
-```text	
-```	
+<!--START_SECTION:waka-->
+```text
+XML          2 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.77 % 
+JavaScript   1 hr 53 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.23 % 
+HTML         1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Markdown     1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+PHP          31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+```
 <!--END_SECTION:waka-->
