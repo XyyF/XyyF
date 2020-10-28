@@ -20,15 +20,3 @@ All these are friend link you can access for free
 - [通过单例模式设计vuex动态注册模块](https://juejin.im/post/6855129005851738120)
 
 <img src="https://github-profile-trophy.vercel.app/?username=XyyF&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
-
-#### :bar_chart: Weekly development breakdown
-
-<!--START_SECTION:waka-->
-```text
-XML          2 hrs 38 mins   █████████░░░░░░░░░░░░░░░░   36.52 % 
-JavaScript   1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Markdown     56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-HTML         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-PHP          31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-```
-<!--END_SECTION:waka-->
