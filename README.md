@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm [Rengar](https://github.com/XyyF),
 
-- I’m currently working on my project elfin series projects
+- I’m currently working on my elfin series projects
     - [elfin-commander](https://github.com/XyyF/elfin-commander)
     - [elfin-algorithm](https://github.com/XyyF/elfin-algorithm)
     - [elfin-dataStructure](https://github.com/XyyF/elfin-dataStructure)
