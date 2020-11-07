@@ -7,6 +7,7 @@
     - [elfin-algorithm](https://github.com/XyyF/elfin-algorithm)
     - [elfin-dataStructure](https://github.com/XyyF/elfin-dataStructure)
     - [elfinUI](https://github.com/XyyF/elfinUI)
+    - [elfin-vscode](https://github.com/XyyF/elfin-vscode)
 - You can contact me through
     - email: 915724526@qq.com
     - 微信号: xiao915724526
