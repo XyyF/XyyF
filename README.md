@@ -2,9 +2,7 @@
 
 ## Hi there 👋 I'm [Rengar](https://github.com/XyyF),
 
-<img src="./images/elfin.png" width = "68" height = "68" alt="elfin"  style="display: block;margin-left: 30px;" />
-
-- I’m currently working on my elfin series projects
+- I’m currently working on my elfin series projects <img src="./images/elfin.png" width = "38" height = "38" alt="elfin" />
     - [elfin-commander](https://github.com/XyyF/elfin-commander)
     - [elfin-algorithm](https://github.com/XyyF/elfin-algorithm)
     - [elfin-dataStructure](https://github.com/XyyF/elfin-dataStructure)
