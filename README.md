@@ -31,6 +31,6 @@ All these are friend link you can access for free
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   21 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
