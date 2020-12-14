@@ -26,15 +26,3 @@ All these are friend link you can access for free
 - [自定义 CSS 单位的单位换算插件](https://github.com/youncccat/postcss-relaxed-unit)
 
 <img src="https://github-profile-trophy.vercel.app/?username=XyyF&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
-
-#### :bar_chart: Weekly development breakdown	
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   13 hrs 2 mins   ████████████▓░░░░░░░░░░░░   51.05 % 
-Markdown     4 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.28 % 
-JSON         3 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Other        1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-HTML         1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-```
-<!--END_SECTION:waka-->
