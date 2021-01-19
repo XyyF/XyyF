@@ -20,6 +20,7 @@ All these are friend link you can access for free
 
 - [debounce & throttle](https://juejin.im/post/6864733967833120781)
 - [通过单例模式设计vuex动态注册模块](https://juejin.im/post/6855129005851738120)
+- [emoji探究](https://juejin.cn/post/6919277792152518664)
 
 ## Links
 - [Mist Blog](https://blog.csdn.net/HaoDaWang)
