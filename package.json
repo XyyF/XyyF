@@ -4,7 +4,7 @@
   "description": "<img src=\"https://github-readme-stats.vercel.app/api?username=XyyF&show_icons=true\" alt=\"logo\" height=\"160\" align=\"right\" style=\"margin: 5px; margin-bottom: 20px;\" />",
   "main": ".elfin.external.js",
   "scripts": {
-    "initialize": "elfincmd external clone --mono && elfincmd external install --mono",
+    "initialize": "elfincmd external clone --multi && elfincmd external install --multi",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
