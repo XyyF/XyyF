@@ -44,4 +44,9 @@ module.exports = [
         // branch: 'main',              /* clone的分支，默认master */
         skipInstall: false,             /* 是否跳过install依赖，默认为false */
     },
+    {
+        sshAddress: 'git@github.com:XyyF/elfin-schedule.git',                   /* git ssh地址 */
+        // branch: 'main',              /* clone的分支，默认master */
+        skipInstall: false,             /* 是否跳过install依赖，默认为false */
+    },
 ]
