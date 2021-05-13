@@ -23,7 +23,7 @@ All these are friend link you can access for free
 - [理解AppID、OpenID、UnionID](https://juejin.cn/post/6926357707834441735)
 
 ## Links
-- [Mist Blog](https://blog.csdn.net/HaoDaWang)
+- [Mist Blog](https://zzhack.fun)
 - [自定义 CSS 单位的单位换算插件](https://github.com/youncccat/postcss-relaxed-unit)
 
 <img src="https://github-profile-trophy.vercel.app/?username=XyyF&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
