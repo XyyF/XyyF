@@ -9,6 +9,8 @@
     - [elfinUI](https://github.com/XyyF/elfinUI)
     - [elfin-vscode](https://github.com/XyyF/elfin-vscode)
     - [elfin-utils](https://github.com/XyyF/elfin-utils)
+    - [elfin-eslint](https://github.com/XyyF/elfin-eslint)
+    - [elfin-inquirer-search-list](https://github.com/XyyF/elfin-inquirer-search-list)
 - You can contact me through
     - email: 915724526@qq.com
     - 微信号: xiao915724526
