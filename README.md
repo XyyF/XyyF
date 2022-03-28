@@ -24,9 +24,10 @@
 ## Read my recent blog's
 All these are friend link you can access for free
 
-- [通过单例模式设计vuex动态注册模块](https://juejin.im/post/6855129005851738120)
-- [emoji探究](https://juejin.cn/post/6919277792152518664)
-- [理解AppID、OpenID、UnionID](https://juejin.cn/post/6926357707834441735)
+- [Web Components](https://juejin.cn/post/7078570090974674980)
+- [elfinTpl极简模板解析引擎](https://juejin.cn/post/7046713542187155464)
+- [迷你vite](https://juejin.cn/post/7045187738941390862)
+- [玩转正则](https://juejin.cn/column/7041001569155809310)
 
 ## Links
 - [Mist Blog](https://zzhack.fun)
