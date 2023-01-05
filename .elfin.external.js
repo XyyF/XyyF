@@ -64,4 +64,14 @@ module.exports = [
         // branch: 'main',              /* clone的分支，默认master */
         skipInstall: true,             /* 是否跳过install依赖，默认为false */
     },
+    {
+        sshAddress: 'git@github.com:XyyF/elfin-draft.git',                   /* git ssh地址 */
+        branch: 'main',              /* clone的分支，默认master */
+        skipInstall: true,             /* 是否跳过install依赖，默认为false */
+    },
+    {
+        sshAddress: 'git@github.com:fe-interest-group/elfin-figma-brain-plugin.git',                   /* git ssh地址 */
+        branch: 'main',              /* clone的分支，默认master */
+        skipInstall: true,             /* 是否跳过install依赖，默认为false */
+    },
 ]
