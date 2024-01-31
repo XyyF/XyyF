@@ -74,4 +74,9 @@ module.exports = [
         branch: 'main',              /* clone的分支，默认master */
         skipInstall: true,             /* 是否跳过install依赖，默认为false */
     },
+    {
+      sshAddress: 'git@github.com:XyyF/pic_bed.git',                   /* git ssh地址 */
+      branch: 'main',              /* clone的分支，默认master */
+      skipInstall: true,
+    }
 ]
