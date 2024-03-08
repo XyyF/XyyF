@@ -58,5 +58,10 @@ module.exports = [
       sshAddress: 'git@github.com:XyyF/pic_bed.git',                   /* git ssh地址 */
       branch: 'main',              /* clone的分支，默认master */
       skipInstall: true,
+    },
+    {
+      sshAddress: 'git@github.com:XyyF/elfin-finance.git',                   /* git ssh地址 */
+      branch: 'main',              /* clone的分支，默认master */
+      skipInstall: true,
     }
 ]

@@ -2,7 +2,7 @@
 
 ## Hi here 👋 I'm [Rengar](https://github.com/XyyF),
 
-- I’m currently working on my elfin series projects <img src="./images/elfin.png" width = "38" height = "38" alt="elfin" />
+- I’m currently working on my elfin series projects <img src="https://cdn.jsdelivr.net/gh/XyyF/pic_bed/images/elfin.png" width = "38" height = "38" alt="elfin" />
 - 最新动态：
     - [elfin tpl 低代码、高效率的前端html模板解析引擎](https://github.com/XyyF/elfin-utils/tree/main/packages/html-template)
     - [elfin demo](https://rengarxiao.com/elfin-demo/index.html)
